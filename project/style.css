@@ -109,7 +109,7 @@ color: rgb(120, 126, 110);
 
     .checkbox-inline1{
         position: relative;
-        top:200px ; 
+        top:300px ; 
         left: 450px;
         border:none;
         font-family: 'Anton', sans-serif;
@@ -126,7 +126,7 @@ color: rgb(120, 126, 110);
 
     .checkbox-inline2{
         position: absolute;
-        top: 200px;
+        top: 300px;
         border: none;
         font-family: 'Anton', sans-serif;
         font-family: 'Itim', cursive;
@@ -158,7 +158,7 @@ color: rgb(120, 126, 110);
     .submit{
        position: absolute; 
        left: 820px;
-       top:500px;
+       top:600px;
        background-color: brown;
        border: 3px black outset;
        color: white;
